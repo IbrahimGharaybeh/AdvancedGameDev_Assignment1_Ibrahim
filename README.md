@@ -3,5 +3,5 @@
 #Dungeon Battles
 A game done in Unity 6.1
 
-![Gameplay](images/picture1.png)
-![Menu](images/picture2.png)
+![Gameplay](lab_project/images/picture1.png)
+![Menu](lab_project/images/picture2.png)
